@@ -1,0 +1,30 @@
+body{
+    
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h1{
+    padding: 0 20px;
+    
+    
+}
+img{
+    display: block;
+    margin: 0 auto;
+    
+}
+h2{
+    padding: 0 20px;
+}
+
+p{
+    padding: 0 20px;
+    text-align: justify;
+}
+
+a{
+    padding: 20px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
